@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Manage how components publish their release notes.
+Sharing github-release-notes config
 
 [⬆ Back to Top](#table-of-contents)
 
