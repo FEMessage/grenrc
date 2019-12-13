@@ -3,6 +3,9 @@ branches:
     - master
 git:
   depth: 3
+install: true
+script: true
+cache: yarn
 deploy:
 - provider: npm
   email: levy9527@qq.com
