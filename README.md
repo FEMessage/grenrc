@@ -7,40 +7,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FEMessage/grenrc/pulls)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
-short description + sample image(png/gif/mp4)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Install](#install)
-- [Usage](#usage)
-- [Links](#links)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
 
-If there is no more words to write, this section can be deleted.
-
-[⬆ Back to Top](#table-of-contents)
-
-## Features
-
-[⬆ Back to Top](#table-of-contents)
-
-## Install
-
-[⬆ Back to Top](#table-of-contents)
-
-## Usage
-
-[⬆ Back to Top](#table-of-contents)
-
-## Links
-
-- [docs](https://FEMessage.github.io/grenrc/)
+Manage how components publish their release notes.
 
 [⬆ Back to Top](#table-of-contents)
 
