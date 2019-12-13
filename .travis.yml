@@ -1,13 +1,16 @@
 branches:
   only:
     - master
-git:
-  depth: 3
 language: node_js
 node_js:
 - lts/*
-install: true
-script: true
+git:
+  depth: 3
+install:
+- yarn --frozen-lockfile
+script:
+- ./build.sh
+cache: yarn
 deploy:
 - provider: npm
   email: levy9527@qq.com

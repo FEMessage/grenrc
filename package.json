@@ -11,7 +11,18 @@
   "main": "index.js",
   "module": "index.js",
   "unpkg": "index.js",
+  "scripts": {
+    "stdver": "standard-version -m '[skip ci] chore(release): v%s'"
+  },
+  "devDependencies": {
+    "standard-version": "^6.0.1"
+  },
   "publishConfig": {
     "access": "public"
+  },
+  "vue-sfc-cli": "1.11.1",
+  "engines": {
+    "node": ">= 8.3.0",
+    "npm": ">= 3.0.0"
   }
 }
