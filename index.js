@@ -1,5 +1,4 @@
 module.exports = {
-  test: 'hello',
   dataSource: 'prs',
   prefix: '',
   ignoreLabels: ['duplicate', 'help wanted', 'invalid', 'question', 'wontfix'],
